@@ -1,0 +1,5 @@
+<!ELEMENT geografia (pais*)>
+<!ELEMENT pais (capital, continente)>
+<!ATTLIST pais nombre CDATA #REQUIRED>
+<!ELEMENT capital (#PCDATA)>
+<!ELEMENT continente (#PCDATA)>

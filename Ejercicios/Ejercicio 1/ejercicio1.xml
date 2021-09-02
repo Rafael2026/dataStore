@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE pelicula SYSTEM "ejercicio1.dtd">
+
+<pelicula autor="Barto">
+
+  <titulo id="1">Con faldas y a lo loco</titulo>
+  <titulo id="2">Sopa de ganso</titulo>
+  
+  <director id="1">Billy Wilder</director>
+  <director id="2">Leo McCarey</director>
+
+</pelicula>
