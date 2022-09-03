@@ -1,4 +1,0 @@
-<!ELEMENT deportistas (deportista*)>
-<!ELEMENT deportista (deporte)>
-<!ATTLIST deportista nombre CDATA #REQUIRED>
-<!ELEMENT deporte (#PCDATA)>

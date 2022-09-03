@@ -1,4 +1,0 @@
-<!ELEMENT medio_de_transporte (vehiculo*)>
-<!ELEMENT vehiculo (velocidad)>
-<!ATTLIST vehiculo nombre CDATA #REQUIRED>
-<!ELEMENT velocidad (#PCDATA)>

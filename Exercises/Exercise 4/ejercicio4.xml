@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE geografia SYSTEM "ejercicio4.dtd">
+
+<geografia>
+
+  <pais nombre = "España">
+  
+    <capital>Madrid</capital>
+    <continente>Europa</continente>
+
+  </pais>
+
+  <pais nombre = "Estados Unidos">
+
+    <capital>Washington D. C.</capital>
+    <continente>América del Norte</continente>
+
+  </pais>
+
+  <pais nombre = "China">
+
+    <capital>Pekín</capital>
+    <continente>Asia</continente>
+
+  </pais>
+
+  <pais nombre = "Australia">
+
+    <capital>Camberra</capital>
+    <continente>Oceanía</continente>
+
+  </pais>
+
+  <pais nombre = "Uruguay">
+
+    <capital>Montevideo</capital>
+    <continente>América del sur</continente>
+
+  </pais>
+
+</geografia>

@@ -1,6 +1,0 @@
-<!ELEMENT mundiales_de_futbol (mundial)>
-<!ELEMENT mundial (pais)>
-<!ATTLIST pais nombre CDATA #REQUIRED>
-<!ELEMENT pais (año*)>
-<!ELEMENT año (#PCDATA)>
-<!ATTLIST año numero CDATA #REQUIRED>

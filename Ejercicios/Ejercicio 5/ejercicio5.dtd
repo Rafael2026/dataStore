@@ -1,4 +1,0 @@
-<!ELEMENT programas (programa*)>
-<!ELEMENT programa (licencia)>
-<!ATTLIST programa nombre CDATA #REQUIRED>
-<!ELEMENT licencia (#PCDATA)>

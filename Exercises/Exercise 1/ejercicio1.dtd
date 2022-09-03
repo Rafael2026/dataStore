@@ -1,0 +1,6 @@
+<!ELEMENT pelicula (titulo*, director*)>
+<!ATTLIST pelicula autor CDATA #REQUIRED>
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT director (#PCDATA)>
+<!ATTLIST titulo id CDATA #REQUIRED>
+<!ATTLIST director id CDATA #REQUIRED>

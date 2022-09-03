@@ -1,5 +1,0 @@
-<!ELEMENT texto (titulo, parrafo, web)>
-<!ELEMENT titulo (#PCDATA)>
-<!ELEMENT parrafo (#PCDATA)>
-<!ELEMENT abreviatura (#PCDATA)>
-<!ELEMENT web (#PCDATA)>
