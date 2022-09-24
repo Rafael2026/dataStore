@@ -1,6 +1,5 @@
 ## How to download XML Copy Editor?
 - [Source Forge - Official website](https://xml-copy-editor.sourceforge.io/)
-
 - [Manual](https://drive.google.com/file/d/1fYTfmj63n77NOaKJ8Ft3RXigwG-2FJuK/view)
 
 ## CodexExempla
@@ -11,7 +10,6 @@
 
 ## Apuntes de XML
 - [Apuntes online](https://oscarmaestre.github.io/lenguajes_marcas/tema5.html#introduccion)
-- 
 - [Repaso](https://drive.google.com/file/d/1PuFJhLYggOr_zvl8E3tEPZ52mBtGq2on/view)
 
 ## Online exercises
